@@ -28,7 +28,7 @@ DISPLAY_LANGUAGE = 'zh_CN'
 YTB_RESOLUTION = '1080'
 
 # Whisper 设置 [whisperx, whisperxapi]
-WHISPER_METHOD = 'whisperxapi'
+WHISPER_METHOD = 'whisperx'
 
 # *Whisper 指定识别语言 [auto, en, ...] auto为自动检测，en为强制转译为英文
 WHISPER_LANGUAGE = 'auto'
