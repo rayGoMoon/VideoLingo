@@ -142,7 +142,8 @@ def main():
     console.print(table)
 
     console.print("If you're unsure about the differences between models, please see https://github.com/Huanshere/VideoLingo/")
-    choice = console.input("Please enter the option number (1 or 2): ")
+    #choice = console.input("Please enter the option number (1 or 2): ")
+    choice = 1
 
     # Install PyTorch and WhisperX
     if platform.system() == 'Darwin':  # macOS do not support Nvidia CUDA
