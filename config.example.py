@@ -21,7 +21,7 @@ TARGET_SUB_MULTIPLIER = 1.2
 RESOLUTION = '640x360'
 
 # 网页显示语言，auto为根据系统自动检测 [zh_CN, en_US, auto]
-DISPLAY_LANGUAGE = 'zh_CN'
+DISPLAY_LANGUAGE = 'auto'
 
 ## ======================== 进阶设置设置 ======================== ##
 # *下载youtube默认分辨率 [360, 1080, best]
